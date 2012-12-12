@@ -1,21 +1,15 @@
 Google Chrome Extensions Demos
 ==========
-Google Chrome Extensions Demos is an public collection of Chrome Extensions demo projects. Check it out at [Chrome Extensions Demos](http://example.com).
-[Twitter Chrome Extensions Demos](http://twitter.com/example/).
+Google Chrome Extensions Demos is an public collection of Chrome Extensions demo projects. 
 
 Usage
 -----
 Coming soon...
 
-Author
+Author and Feedback
 -----
-[Štěpán Víteček](https://plus.google.com/112845969514023316897/posts)
-
-+ http://vstepik.ic.cz
-
-Feedback
-------
 Please send feedback or praise to svitecek@gmail.com.
+Or... contact me on [Google+](https://plus.google.com/112845969514023316897/posts)
 
 Copyright and License
 ----
