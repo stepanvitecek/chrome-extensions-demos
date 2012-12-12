@@ -4,10 +4,11 @@ Google Chrome Extensions Demos is an public collection of Chrome Extensions demo
 
 List of examples
 -----
+[App Launcher - simple Google Chrome app](https://github.com/vstepik/chrome-extensions-demos/tree/master/launcher)
 
 Usage
 -----
-Coming soon...
+Just download folder with app (you'll find it in "List of examples"), which you want to use. Then you just upload this app to your Google Chrome browser - Menu > Settings > Extensions (in top of page check "Developer mode") > Load unpacked extension... > select folder with zour extension
 
 Author and Feedback
 -----
