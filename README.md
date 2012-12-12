@@ -2,6 +2,9 @@ Google Chrome Extensions Demos
 ==========
 Google Chrome Extensions Demos is an public collection of Chrome Extensions demo projects. 
 
+List of examples
+-----
+
 Usage
 -----
 Coming soon...
