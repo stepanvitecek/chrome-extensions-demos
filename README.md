@@ -8,7 +8,7 @@ List of examples
 
 Usage
 -----
-Just download folder with app (you'll find it in "List of examples"), which you want to use. Then you just upload this app to your Google Chrome browser - Menu > Settings > Extensions (in top of page check "Developer mode") > Load unpacked extension... > select folder with zour extension
+Just download folder with app (you'll find it in "List of examples"), which you want to use. Then you just upload this app to your Google Chrome web browser - Menu > Settings > Extensions (in top of page check "Developer mode") > Load unpacked extension... > select folder with your Chrome extension
 
 Author and Feedback
 -----
