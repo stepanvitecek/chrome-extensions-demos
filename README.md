@@ -8,7 +8,7 @@ Coming soon...
 
 Author and Feedback
 -----
-Please send feedback or praise to svitecek@gmail.com.
+Please send feedback or praise to <a href="mailto:svitecek@gmail.com">svitecek@gmail.com</a>.
 Or... contact me on [Google+](https://plus.google.com/112845969514023316897/posts)
 
 Copyright and License
