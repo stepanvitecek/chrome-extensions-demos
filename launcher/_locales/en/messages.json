@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "App description.",
+      "message": "GitHub - social network for nerds!"
+   },
+   "appName": {
+      "description": "App name.",
+      "message": "GitHub"
+   }
+}
